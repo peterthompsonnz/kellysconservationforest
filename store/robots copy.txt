@@ -1,0 +1,4 @@
+Sitemap: https://kellysconservationforest.netlify.app/sitemap.xml
+
+User-agent: *
+Disallow:
