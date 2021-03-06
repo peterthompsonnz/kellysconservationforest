@@ -17,7 +17,7 @@ body {
 
 main {
   font-size: 1.25rem;
-  max-width: 960px;
+  max-width: 900px;
   padding: 1em;
   margin: 0 auto;
   background: #fff;
@@ -25,13 +25,8 @@ main {
   min-height: 100vh;
 }
 
-main p {
+p {
   line-height: 1.6;
-}
-
-h1 {
-  font-size: 2.25rem;
-  margin: 0.25em 0 0.75em 0;
 }
 
 h1, h2, h3 {
@@ -40,12 +35,17 @@ h1, h2, h3 {
   letter-spacing: -.025em;
 }
 
+h1 {
+  font-size: 2.25em;
+  margin: 0.25em 0 0.75em 0;
+}
+
 h2 {
-  font-size: 1.85rem;
+  font-size: 1.7em;
 }
 
 h3 {
-  font-size: 1.65rem;
+  font-size: 1.4em;
 }
 
 .sub-title {
@@ -222,9 +222,6 @@ footer {
   }
   main {
     font-size: 1rem;
-  }
-  main h1 {
-    font-size: 2rem;
   }
   footer {
     display: none;
