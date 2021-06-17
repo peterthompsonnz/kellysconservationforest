@@ -18,7 +18,7 @@ This varigated flax is a real beauty. Note the old flower/seed heads. The tuis l
 
 ![Flax bush](/images/news/winter-walkaround/flax.jpg)
 
-This kawakawa [kawakawa](https://teara.govt.nz/en/photograph/13880/kawakawa) is taking advantage of the fallen dead branches to spread itself.
+This [kawakawa](https://teara.govt.nz/en/photograph/13880/kawakawa) is taking advantage of the fallen dead branches to spread itself.
 
 ![Spreading kawakawa](/images/news/winter-walkaround/kawakawa.jpg)
 
