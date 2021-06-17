@@ -14,7 +14,7 @@ Today I did a walk around the bush. We have had a wet and mild start to winter a
 Above is a picture of a young rimu tree. As can be see it is growing very well. It is somewhat shaded so is protected from the heat during summer. Note the foxglove growing next to it. Unfortunately it is also doing well.
 
 
-This flax is a real beauty.
+This varigated flax is a real beauty. Note the old flower/seed heads. The tuis love these bushes in the summer.
 
 ![Flax bush](/images/news/winter-walkaround/flax.jpg)
 
