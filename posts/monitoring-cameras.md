@@ -7,7 +7,7 @@ layout: post-layout.liquid
 
 ## Monitoring Cameras
 
-Don Selford has placed a number of cameras around the forest. They are used to monitor the prevalance of pests, such as rats, possums and stoats (and the occasional cat), and also the abundance and type of native wild life. The cameras are waterproof, and run on batteries which can last up to 3 months. They are trigured by movement and use an infrared system at night. As well as pests the cameras record bird life such as tui's and bellbirds. Pictures of English garden birds are also captured.
+Don Selford has placed a number of cameras around the forest. They are used to monitor the prevalance of pests, such as rats, possums and stoats (and the occasional cat), and also the abundance and type of native wild life. The cameras are waterproof, and run on batteries which can last up to 3 months. They are trigured by movement and use an infrared system at night. As well as pests the cameras record bird life such as tuis and bellbirds. Pictures of English garden birds are also captured.
 
 ## Camera Setup
 

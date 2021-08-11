@@ -21,9 +21,9 @@ Above is a picture of vines hanging from trees. The vines are a mixture of two t
 
 ![Picture of the base of a kanuka tree that is clear of vines](/images/news/clearing-vines/base-of-tree-cleared.jpg)
 
-Below is a picture of some of the 'tools of the trade': leather glooves and a bottle of poison. Missing is the pruning saw that is used to cut the vines - they are quite soft. Click on this link to see what the saw looks like: [komelon pruning saw](https://www.mitre10.co.nz/shop/komelon-speed-cut-pro-pruning-saw-210mm-green-and-charcoal-black/p/233072)
+Below is a picture of some of the 'tools of the trade': leather gloves and a bottle of poison. Missing is the pruning saw that is used to cut the vines - they are quite soft. Click on this link to see what the saw looks like: [komelon pruning saw](https://www.mitre10.co.nz/shop/komelon-speed-cut-pro-pruning-saw-210mm-green-and-charcoal-black/p/233072)
 
-![Picture of glooves and bottles of poison](/images/news/clearing-vines/tools-of-trade.jpg)
+![Picture of gloves and bottles of poison](/images/news/clearing-vines/tools-of-trade.jpg)
 
 Below is a picture of the vines cut back to stumps and poisoned.
 
