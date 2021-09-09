@@ -9,7 +9,7 @@ layout: post-layout.liquid
 
 ![Picture of passionfruit vines hanging from trees](/images/news/clearing-vines/vines-climbing-trees.jpg)
 
-Above is a picture of vines hanging from trees. The vines are a mixture of two types: banana passionfruit and old man's beard. The vines can smoother a tree's foliage causing its leaves to die. Naturally enough this is not good for the tree. The picture below is a closer view and it shows a tangle of banana pashionfruit vines. 
+Above is a picture of vines hanging from trees. The vines are a mixture of two types: banana passionfruit and old man's beard. The vines can smother a tree's foliage causing its leaves to die. Naturally enough this is not good for the tree. The picture below is a closer view and it shows a tangle of banana pashionfruit vines. 
 
 ![Aother picture of passionfruit vines hanging from trees](/images/news/clearing-vines/vines-climbing-trees-closeup.jpg)
 
