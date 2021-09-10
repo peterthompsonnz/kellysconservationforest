@@ -1,11 +1,13 @@
 :root {
     /* Colours */
     --mid-green: #60783a;
+    --dark-green: #2d381c;
     --heading-colour: var(--mid-green, #60783a);
     --text-colour: #222222;
     --text-background-colour: #fafafa;
     --dark-gray-background: #505050;
     --light-gray-background: #d8d8d8;
+    --main-title-colour: #ffffff;
     /* Fonts */
     --georgia-serif-stack: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
     --helvetica-arial-stack: 'Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif';
@@ -32,7 +34,7 @@ body {
 }
 
 main {
-    font-size: 1.2rem;
+    font-size: 1.25rem;
     max-width: 70ch;
     padding: 1rem;
     margin: 0 auto;
@@ -60,18 +62,19 @@ h1 {
 }
 
 h2 {
-    font-size: 1.7rem;
+    font-size: 1.85rem;
 }
 
 h3 {
-    font-size: 1.4rem;
+    font-size: 1.6rem;
 }
 
-.sub-title {
+
+/* .sub-title {
     color: var(--mid-green);
     font-weight: 600;
     font-size: 1.5rem;
-}
+} */
 
 img {
     max-width: 100%;
@@ -83,30 +86,30 @@ img {
 
 /* Navigation */
 
-nav {
+.nav {
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    background-color: var(--text-background-colour);
+    background-color: var(--light-gray-background);
     padding: 1rem 0;
 }
 
-nav ul {
+.nav-list {
     list-style: none;
     margin: 0;
     padding: 0;
 }
 
-nav li {
+.nav-list-item {
     display: inline-block;
     margin-right: 1rem;
 }
 
-nav li:last-of-type {
+.nav-list-item:last-of-type {
     margin-right: 1.5rem;
 }
 
-nav a {
+.nav-link {
     color: white;
     padding: 0.3rem 1rem;
     background-color: var(--mid-green);
@@ -116,8 +119,9 @@ nav a {
     font-family: var(--helvetica-arial-stack);
 }
 
-nav a:hover {
+.nav-link:hover {
     background-color: var(--dark-gray-background);
+    color: white;
 }
 
 
@@ -130,21 +134,19 @@ header {
     padding: 0;
 }
 
-.title {
+.title-container {
     background-image: url(/images/header1440x480.jpg);
     background-size: cover;
     width: 100%;
     min-height: 480px;
 }
 
-.title h1 {
+.title {
     font-size: 4.5rem;
     text-align: center;
     margin: 0;
     text-transform: uppercase;
-    color: rgb(255, 255, 255);
-    font-weight: 400;
-    letter-spacing: -.025rem;
+    color: var(--main-title-colour);
     position: absolute;
     left: 50%;
     top: 50%;
@@ -156,48 +158,49 @@ header {
     margin: 3rem 1rem 2rem 1rem;
     text-align: center;
     height: 1px;
-    border-top: 1px solid#60783a;
+    border-top: 1px solid var(--mid-green);
+    ;
 }
 
-main a {
+
+/* Generic links */
+
+a {
     text-decoration: underline;
-    color: #60783a;
+    color: var(--mid-green);
 }
 
-main a:hover {
-    color: #364917;
-}
-
-main li a {
-    font-family: var(--helvetica-arial-stack);
+a:hover {
+    color: var(--dark-green);
 }
 
 
-/* Custom coloured bullet points */
+/* Post list */
 
-main ul {
+.post-list {
     list-style: none;
     padding-left: 0;
     margin-left: 0;
 }
 
-main ul li {
+.post-list-item {
     margin-bottom: 1.5rem;
     margin-left: -0.5rem;
 }
 
-main ul li:last-of-type {
+.post-list-item:last-of-type {
     margin-bottom: 3rem;
 }
 
-main ul li a {
+.post-list-link {
+    font-family: var(--helvetica-arial-stack);
     padding: 0.5rem;
     border-radius: 4px;
 }
 
-main ul li a:hover {
-    color: #364917;
-    background-color: #ececec;
+.post-list-link:hover {
+    color: var(--dark-green);
+    background-color: var(--light-gray-background);
     text-decoration: none;
 }
 

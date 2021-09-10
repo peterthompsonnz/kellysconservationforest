@@ -6,11 +6,11 @@ changefreq: weekly
   <main>    
     <h1>List of Posts</h1>
 
-    <p>This page contains a list of posts written by me, Peter Thompson, that hopefully tell of interesting aspects of working at the forest. They are arranged in the order of newest to oldest.</p>
+    <p>This page contains a list of posts written by me, Peter Thompson, that hopefully tell of interesting aspects of working at the forest. They are arranged newest to oldest.</p>
     
-    <ul>
+    <ul class="post-list">
         {% for post in collections.post reversed -%}
-        <li><a href="{{ post.url }}">{{ post.data.date | dateFormat }}: {{ post.data.title }}</a></li>
+        <li class="post-list-item"><a href="{{ post.url }}" class="post-list-link">{{ post.data.date | dateFormat }}: {{ post.data.title }}</a></li>
         {% endfor -%}
     </ul>
   </main>    
