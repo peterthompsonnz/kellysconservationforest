@@ -1,3 +1,16 @@
+:root {
+    /* Colours */
+    --mid-green: #60783a;
+    --heading-colour: var(--mid-green, #60783a);
+    --text-colour: #222222;
+    --text-background-colour: #fafafa;
+    --dark-gray-background: #505050;
+    --light-gray-background: #d8d8d8;
+    /* Fonts */
+    --georgia-serif-stack: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
+    --helvetica-arial-stack: 'Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif';
+}
+
 *,
 *::before,
 *::after {
@@ -12,19 +25,19 @@ body {
 
 body {
     padding: 0;
-    font-family: verdana, arial, sans-serif;
+    font-family: var(--georgia-serif-stack);
     font-size: 100%;
     position: relative;
-    background: #ececec;
+    background: var(--light-gray-background);
 }
 
 main {
-    font-size: 1.25rem;
-    max-width: 900px;
+    font-size: 1.2rem;
+    max-width: 70ch;
     padding: 1rem;
     margin: 0 auto;
-    background: #fff;
-    color: rgb(26, 43, 73);
+    background: var(--text-background-colour);
+    color: var(--text-colour);
     min-height: 100vh;
 }
 
@@ -35,9 +48,10 @@ p {
 h1,
 h2,
 h3 {
-    color: #60783a;
+    color: var(--heading-colour);
+    font-family: var(--helvetica-arial-stack);
     font-weight: 400;
-    letter-spacing: -.025rem;
+    letter-spacing: -0.025rem;
 }
 
 h1 {
@@ -54,7 +68,7 @@ h3 {
 }
 
 .sub-title {
-    color: #60783a;
+    color: var(--mid-green);
     font-weight: 600;
     font-size: 1.5rem;
 }
@@ -73,7 +87,7 @@ nav {
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    background-color: #ececec;
+    background-color: var(--text-background-colour);
     padding: 1rem 0;
 }
 
@@ -95,14 +109,15 @@ nav li:last-of-type {
 nav a {
     color: white;
     padding: 0.3rem 1rem;
-    background-color: #60783a;
+    background-color: var(--mid-green);
     border-radius: 2px;
     text-decoration: none;
     font-size: 1.15rem;
+    font-family: var(--helvetica-arial-stack);
 }
 
 nav a:hover {
-    background-color: rgb(75, 75, 75);
+    background-color: var(--dark-gray-background);
 }
 
 
@@ -151,6 +166,10 @@ main a {
 
 main a:hover {
     color: #364917;
+}
+
+main li a {
+    font-family: var(--helvetica-arial-stack);
 }
 
 
