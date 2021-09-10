@@ -1,10 +1,12 @@
 :root {
     /* Colours */
+    --off-white: #fefefe;
     --mid-green: #60783a;
     --dark-green: #2d381c;
-    --heading-colour: var(--mid-green, #60783a);
+    --bright-green: #44f744;
+    --heading-colour: var(--mid-green);
     --text-colour: #222222;
-    --text-background-colour: #fafafa;
+    --main-background-colour: var(--off-white);
     --dark-gray-background: #505050;
     --light-gray-background: #d8d8d8;
     --main-title-colour: #ffffff;
@@ -27,7 +29,7 @@ body {
 
 body {
     padding: 0;
-    font-family: var(--georgia-serif-stack);
+    font-family: var(--helvetica-arial-stack);
     font-size: 100%;
     position: relative;
     background: var(--light-gray-background);
@@ -38,7 +40,7 @@ main {
     max-width: 70ch;
     padding: 1rem;
     margin: 0 auto;
-    background: var(--text-background-colour);
+    background: var(--main-background-colour);
     color: var(--text-colour);
     min-height: 100vh;
 }
@@ -51,14 +53,13 @@ h1,
 h2,
 h3 {
     color: var(--heading-colour);
-    font-family: var(--helvetica-arial-stack);
+    font-family: var(--georgia-serif-stack);
     font-weight: 400;
     letter-spacing: -0.025rem;
 }
 
 h1 {
-    font-size: 2.25rem;
-    margin: 0.25rem 0 0.75rem 0;
+    font-size: 2.15rem;
 }
 
 h2 {
@@ -68,13 +69,6 @@ h2 {
 h3 {
     font-size: 1.6rem;
 }
-
-
-/* .sub-title {
-    color: var(--mid-green);
-    font-weight: 600;
-    font-size: 1.5rem;
-} */
 
 img {
     max-width: 100%;
@@ -110,7 +104,7 @@ img {
 }
 
 .nav-link {
-    color: white;
+    color: var(--off-white);
     padding: 0.3rem 1rem;
     background-color: var(--mid-green);
     border-radius: 2px;
@@ -121,7 +115,7 @@ img {
 
 .nav-link:hover {
     background-color: var(--dark-gray-background);
-    color: white;
+    color: var(--off-white);
 }
 
 
@@ -142,6 +136,7 @@ header {
 }
 
 .title {
+    display: block;
     font-size: 4.5rem;
     text-align: center;
     margin: 0;
@@ -207,30 +202,16 @@ a:hover {
 
 /* ***************************************** */
 
-.endorsements-container {
-    position: relative;
-    max-width: 800px;
-}
-
-.endorsements-text-container {
-    position: absolute;
-    top: 0;
-    left: 0;
-    padding: 1rem 1.5rem 1.5rem 1.5rem;
-}
-
-.endorsement-text {
-    color: #fff;
+.endorsement {
     font-style: italic;
 }
 
-.endorsement-text:last-of-type {
-    margin-top: 3rem;
+.endorsement-author {
+    color: var(--mid-green);
 }
 
-.endorsement-text span {
-    color: rgb(31, 216, 47);
-    font-size: 0.85rem
+section:last-of-type {
+    margin-bottom: 3.5rem;
 }
 
 footer {
@@ -239,7 +220,7 @@ footer {
     bottom: 0;
     left: 0;
     font-size: 1rem;
-    color: #fefefe;
+    color: var(--off-white);
     background: rgba(0, 0, 0, 0.6);
     padding: 0.5rem;
     text-align: center;
@@ -249,35 +230,43 @@ footer {
     main {
         font-size: 1.2rem;
     }
-    .title h1 {
+    .title {
         font-size: 3.5rem;
     }
-    .endorsement-text:last-of-type {
-        margin-top: 2rem;
+    h1 {
+        font-size: 2rem;
+    }
+    h2 {
+        font-size: 1.75rem;
+    }
+    h3 {
+        font-size: 1.45rem;
     }
 }
 
 @media screen and (max-width: 500px) {
-    .title h1 {
-        font-size: 2.75rem;
-    }
     main {
         font-size: 1.15rem;
+    }
+    .title {
+        font-size: 2.75rem;
     }
     footer {
         display: none;
     }
-    .endorsement-text {
-        font-size: 1rem;
-        line-height: 1.4;
-    }
-    .endorsement-text:last-of-type {
-        margin-top: 1rem;
-    }
 }
 
-@media screen and (max-width: 360px) {
-    .title h1 {
-        font-size: 2.5rem;
+@media screen and (max-width: 365px) {
+    .title {
+        font-size: 2.2rem;
+    }
+    h1 {
+        font-size: 1.85rem;
+    }
+    h2 {
+        font-size: 1.5rem;
+    }
+    h3 {
+        font-size: 1.25rem;
     }
 }
