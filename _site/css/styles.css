@@ -7,8 +7,9 @@
     --heading-colour: var(--mid-green);
     --text-colour: #222222;
     --main-background-colour: var(--off-white);
-    --dark-gray-background: #505050;
-    --light-gray-background: #d8d8d8;
+    --dark-gray: #444444;
+    --mid-gray: #999999;
+    --light-gray: #d8d8d8;
     --main-title-colour: #ffffff;
     /* Fonts */
     --georgia-serif-stack: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
@@ -32,7 +33,7 @@ body {
     font-family: var(--helvetica-arial-stack);
     font-size: 100%;
     position: relative;
-    background: var(--light-gray-background);
+    background: var(--light-gray);
 }
 
 main {
@@ -74,7 +75,7 @@ img {
     max-width: 100%;
     height: auto;
     border-radius: 6px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.26);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.36);
 }
 
 
@@ -84,7 +85,7 @@ img {
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    background-color: var(--light-gray-background);
+    background-color: var(--light-gray);
     padding: 1rem 0;
 }
 
@@ -114,7 +115,7 @@ img {
 }
 
 .nav-link:hover {
-    background-color: var(--dark-gray-background);
+    background-color: var(--dark-gray);
     color: var(--off-white);
 }
 
@@ -195,8 +196,14 @@ a:hover {
 
 .post-list-link:hover {
     color: var(--dark-green);
-    background-color: var(--light-gray-background);
+    background-color: var(--light-gray);
     text-decoration: none;
+}
+
+.post-date {
+    color: var(--dark-gray);
+    font-style: italic;
+    font-size: 1rem;
 }
 
 
