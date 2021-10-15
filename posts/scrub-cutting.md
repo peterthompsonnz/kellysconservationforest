@@ -9,7 +9,7 @@ layout: post-layout.liquid
 
 ![Picture of gorse along top of bank](/images/news/scrub-cutting/gorse-along-top-of-bank.jpg)
 
-Above is a "before" picture of gorse growing along the top of a bank. It is part of a section of land that is infested with brambles, old man's beard and to a lesser extent banana passionfruit. The best way to tackle these is to use a scrub cutter to cut and "munch up" as much of the scrub as possible. then come back and spray regrowth in a couple of months time. Below is a picture of the scrub cutter (a Stihl) looking along the machine from the cutting head to the motor. The following link points to a page with information on a similar scrub cutter: [STIHL FS 85 R Petrol Brushcutter](https://www.stihlshop.co.nz/default/stihl-fs-85-r-petrol-brushcutter.html)
+Above is a 'before' picture of gorse growing along the top of a bank. It is part of a section of land that is infested with brambles, old man's beard and to a lesser extent banana passionfruit. The best way to tackle these is to use a scrub cutter to cut and "munch up" as much of the scrub as possible. then come back and spray regrowth in a couple of months time. Below is a picture of the scrub cutter (a Stihl) looking along the machine from the cutting head to the motor. The following link points to a page with information on a similar scrub cutter: [STIHL FS 85 R Petrol Brushcutter](https://www.stihlshop.co.nz/default/stihl-fs-85-r-petrol-brushcutter.html)
 
 <img src="/images/news/scrub-cutting/scrub-cutter.jpg" alt="Picture of gorse scrub cutter" loading="lazy" />
 
