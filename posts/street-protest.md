@@ -7,7 +7,7 @@ layout: post-layout.liquid
 
 ## Street Protest
 
-![Lindy's old truck decked out with signage](/images/news/truck-with-protest-signs.jpg)
+![Lindy's old truck decked out with signage](/images/news/street-protest/truck-with-protest-signs.jpg)
 
 Today Lindy protested through town with her old truck. Moana and Christy went along as well - plus Lindy's faithful dogs. 
 

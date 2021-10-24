@@ -11,8 +11,6 @@ The lookout point has a simple bench where people can sit and recuperate from th
 
 ![The East Bush lookout](/images/news/east-bush-lookout/lookout.jpg)
 
-<br />
-
 View from the lookout towards Stoke and the Waimea Estuary. Rabbit Island can be seen in the middle right of the picture.
 
 <img src="/images/news/east-bush-lookout/gum-tree-view.jpg" alt="View from the lookout towards Stoke and the Waimea Estuary" loading="lazy">

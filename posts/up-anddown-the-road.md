@@ -11,8 +11,6 @@ Looking up the Enner Glynn road towards the hills. The Jenkins Creek stream can 
 
 ![Looking up the Enner Glynn road towards the hills](/images/news/country-road/up-the-road.jpg)
 
-<br />
-
 Looking down the road. A blue, blue sky with pretty clouds. A great Spring day.
 
 <img src="/images/news/country-road/down-the-road.jpg" alt="Looking down the Enner Glynn road towards the hills" loading="lazy">

@@ -72,8 +72,10 @@ h3 {
 }
 
 img {
+    display: block;
     max-width: 100%;
     height: auto;
+    margin-bottom: 3rem;
     border-radius: 6px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.36);
 }
@@ -112,6 +114,9 @@ img {
     text-decoration: none;
     font-size: 1.15rem;
     font-family: var(--helvetica-arial-stack);
+    font-weight: 600;
+    letter-spacing: 0.075rem;
+    text-transform: uppercase;
 }
 
 .nav-link:hover {
@@ -130,7 +135,7 @@ header {
 }
 
 .title-container {
-    background-image: url(/images/header1440x480.jpg);
+    background-image: url(/images/home/header1440x480.jpg);
     background-size: cover;
     width: 100%;
     min-height: 480px;

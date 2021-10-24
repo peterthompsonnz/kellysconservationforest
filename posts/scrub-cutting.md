@@ -23,19 +23,13 @@ The most effective scrub cutting technique is to first break up the top growth b
 
 Picture of scrub near a tree before it was cut.
 
-<br>
-
 <img src="/images/news/scrub-cutting/scrub-by-tree-after.jpg" alt="Picture of area near tree after scrub was cut" loading="lazy" />
 
 Picture of area near tree and beyond after scrub was cut.
 
-<br>
-
 <img src="/images/news/scrub-cutting/closeup-of-brush-to-cut.jpg" alt="Closeup picture of uncut brush showing how thick it is" loading="lazy" />
 
 Closeup picture of brush - mostly brambles - showing how thick it is.
-
-<br>
 
 <img src="/images/news/scrub-cutting/after-clearing.jpg" alt="Picture looking across and down cut slope showing the abundance of cut old man's beard stems" loading="lazy" />
 
