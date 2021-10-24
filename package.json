@@ -4,7 +4,7 @@
   "description": "A site about Kellys Conservation Forest",
   "main": "index.js",
   "scripts": {
-    "start": "npx eleventy --serve"
+    "start": "npx eleventy --watch --serve"
   },
   "keywords": [],
   "author": "Peter Thompson",
