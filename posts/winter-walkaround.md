@@ -1,6 +1,7 @@
 ---
 tags: post
 title: Winter Walkaround
+pageDescription: A walk around the Little Bush on a Winter's day.
 date: 2021-06-17
 layout: post-layout.liquid
 ---

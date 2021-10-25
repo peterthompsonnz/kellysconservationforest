@@ -1,6 +1,7 @@
 ---
 tags: post
 title: Country Road
+pageDescription: The Enner Glynn road is close to Nelson City but still retains it's country character.
 date: 2021-10-23
 layout: post-layout.liquid
 ---

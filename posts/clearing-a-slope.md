@@ -1,6 +1,7 @@
 ---
 tags: post
 title: Clearing a Slope
+pageDescription: Clearing a slope of gorse and brambles allows trees to grow and ground to be ready for planting
 date: 2020-12-17
 layout: post-layout.liquid
 ---
@@ -9,7 +10,7 @@ layout: post-layout.liquid
 
 ![Picture of gorse and brambles](/images/news/clearing-slope/gorse-and-brambles.jpg)
 
-Above is a "before" picture of part of a slope that was cleared recently. It is fairly typical of an area that has been overgrown with gorse and brambles. The gorse and brambles have largely been poisoned, hence their brown colour. However there is still some life in the brambles! The picture below is the "after" shot and shows the slope after it has been cleared. It is ready for planting next winter. Note the gorse stumps. Their size and denseness gives an indication of how overgrown the area was. The white tipped sticks indicate the position of plants planted this last winter. It is hard to make them out as they were a batch of small plants and the picture quality is not the best. 
+Clearing a slope of gorse and brambles allows trees to grow and ground to be ready for planting. Above is a "before" picture of part of a slope that was cleared recently. It is fairly typical of an area that has been overgrown with gorse and brambles. The gorse and brambles have largely been poisoned, hence their brown colour. However there is still some life in the brambles! The picture below is the "after" shot and shows the slope after it has been cleared. It is ready for planting next winter. Note the gorse stumps. Their size and denseness gives an indication of how overgrown the area was. The white tipped sticks indicate the position of plants planted this last winter. It is hard to make them out as they were a batch of small plants and the picture quality is not the best. 
 
 ![Picture of gorse and bramble slope cleared](/images/news/clearing-slope/slope-finished.jpg)
 

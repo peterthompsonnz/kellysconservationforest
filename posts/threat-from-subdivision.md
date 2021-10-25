@@ -1,6 +1,7 @@
 ---
 tags: post
 title: Threat from the Subdivision
+pageDescription: Stuff article on the proposed sub-division next to the conservation forest.
 date: 2020-11-15
 layout: post-layout.liquid
 ---

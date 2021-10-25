@@ -1,6 +1,7 @@
 ---
 tags: post
 title: Welcome to the blog
+pageDescription: First blog/news post.
 date: 2020-11-14
 layout: post-layout.liquid
 ---

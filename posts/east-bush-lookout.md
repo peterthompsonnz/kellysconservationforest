@@ -1,6 +1,7 @@
 ---
 tags: post
 title: East Bush Lookout
+pageDescription: The East Bush lookout is spectacularly positioned and affords panoramic views.
 date: 2021-10-24
 layout: post-layout.liquid
 ---

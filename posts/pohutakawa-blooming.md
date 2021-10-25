@@ -1,6 +1,7 @@
 ---
 tags: post
 title: Pohutukawa in Bloom
+pageDescription: The Pohutukawa tree is fairly rare in Nelson but is colourful when present.
 date: 2021-01-03
 layout: post-layout.liquid
 ---

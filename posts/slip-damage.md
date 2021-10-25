@@ -1,6 +1,7 @@
 ---
 tags: post
 title: Slip Damage
+pageDescription: Heavy rain can cause slips on steep hillsides. Planting poplars or willows can help stablelise the ground.
 date: 2021-09-09
 layout: post-layout.liquid
 ---

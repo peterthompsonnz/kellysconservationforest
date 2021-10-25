@@ -1,6 +1,7 @@
 ---
 tags: post
 title: Scrub Cutting
+pageDescription: Dense scrub, such as vines and brambles, needs to be tackled by machine.
 date: 2021-10-02
 layout: post-layout.liquid
 ---

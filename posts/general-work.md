@@ -1,6 +1,7 @@
 ---
 tags: post
 title: Tree Poisoning and Slip progress
+pageDescription: General tidying work - cutting down and poisoning a blackwood tree and viewing poplar growth on the recent slip.
 date: 2021-09-21
 layout: post-layout.liquid
 ---
@@ -9,7 +10,7 @@ layout: post-layout.liquid
 
 Below is a picture of an [Australian Blackwood](https://en.wikipedia.org/wiki/Acacia_melanoxylon) (Acacia melanoxylon) tree. These are Australian imports that are most unwelcome as they grow and spread quickly. The second picture shows the poisoned stump of the tree once the tree has been cut down. Branches can be seen piled up in the background.
 
-![Picture of an Australian Blackwood tre](/images/news/general-work/blackwood-tree.jpg)
+![Picture of an Australian Blackwood tree](/images/news/general-work/blackwood-tree.jpg)
 
 <img src="/images/news/general-work/tree-stump.jpg" alt="Picture of the stump of a blackwood tree" loading="lazy" />
 

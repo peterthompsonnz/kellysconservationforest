@@ -1,11 +1,12 @@
 ---
 tags: post
 title: Trapping
+pageDescription: There is an extensive network of traps in the forest to deal with pests such as possums, rats, mice and stoats.
 date: 2021-08-15
 layout: post-layout.liquid
 ---
 
-## Trapping
+## Trapping Pests
 
 There is an extensive network of traps in the forest to deal with pests such as possums, rats, mice and stoats. Below is a picture of a possum caught in a **Trapinator** trap. The possum is attracted to the trap by the smell of a lure, such as peanut butter, and a (powerful) spring loaded bar is triggered when the possum puts its head far enough into the trap. Death is virtually instantaneous as the possum's neck is broken. Click on the following link to find out more about the trap: [Trapinator](https://www.traps.co.nz/trapinator-possum-kill-trap)
 

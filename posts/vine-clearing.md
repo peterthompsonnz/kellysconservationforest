@@ -1,6 +1,7 @@
 ---
 tags: post
 title: Clearing Vines
+pageDescription: Old Man's beard and Banana Passionfruit vines will strangle trees if left to grow. Killing them by cutting and poisoning is an effective solution.
 date: 2021-08-11
 layout: post-layout.liquid
 ---

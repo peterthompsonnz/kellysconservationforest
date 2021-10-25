@@ -1,6 +1,7 @@
 ---
 tags: post
 title: Street Protest
+pageDescription: Lindy takes to the streets to publicise her case against the proposed sub-division on her eastern boundary.
 date: 2020-11-28
 layout: post-layout.liquid
 ---

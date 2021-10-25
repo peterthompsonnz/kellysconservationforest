@@ -1,6 +1,7 @@
 ---
 tags: post
 title: Monitoring Cameras
+pageDescription: Cameras are used to monitor the type and presence of pests such as rats, stoats, possums and wild cats.
 date: 2021-07-14
 layout: post-layout.liquid
 ---
