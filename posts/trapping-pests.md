@@ -1,6 +1,6 @@
 ---
 tags: post
-title: Trapping
+title: Trapping Pests
 pageDescription: There is an extensive network of traps in the forest to deal with pests such as possums, rats, mice and stoats.
 date: 2021-08-15
 layout: post-layout.liquid

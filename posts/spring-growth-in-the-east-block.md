@@ -1,12 +1,12 @@
 ---
 tags: post
-title: Spring Growth in the East Block
+title: Spring Growth in the East Bush
 pageDescription: Spring has well and truely sprung. It is a lovely time of year with plants in full, lush green growth.
 date: 2021-10-24
 layout: post-layout.liquid
 ---
 
-## Spring Growth in the East Block
+## Spring Growth in the East Bush
 
 Spring has well and truely sprung. It is a lovely time of year with plants in full, lush green growth.
 
