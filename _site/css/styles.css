@@ -112,7 +112,7 @@ img {
     background-color: var(--mid-green);
     border-radius: 2px;
     text-decoration: none;
-    font-size: 1.15rem;
+    font-size: 1rem;
     font-family: var(--helvetica-arial-stack);
     font-weight: 600;
     letter-spacing: 0.075rem;
@@ -134,14 +134,14 @@ header {
     padding: 0;
 }
 
-.title-container {
+.sitename-container {
     background-image: url(/images/home/header1440x480.jpg);
     background-size: cover;
     width: 100%;
     min-height: 480px;
 }
 
-.title {
+.sitename {
     display: block;
     font-size: 4.5rem;
     text-align: center;

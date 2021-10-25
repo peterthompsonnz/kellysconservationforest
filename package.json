@@ -4,13 +4,15 @@
   "description": "A site about Kellys Conservation Forest",
   "main": "index.js",
   "scripts": {
-    "start": "rm -rf && clear && npx eleventy --serve"
+    "start": "rm -rf _site && clear && npx eleventy --serve",
+    "build": "eleventy"
   },
   "keywords": [],
   "author": "Peter Thompson",
   "license": "ISC",
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
+    "date-fns": "^2.25.0",
     "moment-timezone": "^0.5.31"
   }
 }
