@@ -31,7 +31,7 @@ The trees are difficult to see amongst the long grass.
 
 <img src="/images/news/spring-releasing/released-trees.jpg" alt="Trees are more visible once grass has been trampled around them" loading="lazy">
 
-They are easier to see once the long grass has been stamped down. The actual flattening is greater than what can be seen in this picture due the height and angle of the camera.
+They are easier to see once the long grass has been stamped down. The actual flattening is greater than what can be seen in this picture due to the height and angle of the camera.
 
 <br />
 
