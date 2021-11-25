@@ -1,12 +1,12 @@
 ---
 tags: post
-title: Spring 2021 Releasing of Trees
+title: Releasing of Trees - Spring 2021
 pageDescription: Over the Spring and Summer grass growth can overpower young trees. The cutting back of the grass is called 'releasing'.
 date: 2021-11-03
 layout: post-layout.liquid
 ---
 
-## Spring 2021 Releasing of Trees
+## Releasing of Trees - Spring 2021
 
 A [prior post](../releasing-trees/) talked about the releasing of trees during summer. Releasing can also be done during spring once the grass has reached the seed head formation stage. At this point it will not grow much more and will start to fall over under its own weight. This is the ideal time to 'stamp' it down around the tree. Stamping basically involves walking around the tree on top of the grass. It is important to make sure the grass stems are bent horizontal at their base. In addition the fallen grass will 'mulch' the tree by shading the ground, thereby helping to keep moisture in it.
 
