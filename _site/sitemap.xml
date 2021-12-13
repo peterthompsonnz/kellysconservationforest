@@ -115,6 +115,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://kellysconservationforest.netlify.app/posts/bellbird-song/</loc>
+    <lastmod>2021-11-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://kellysconservationforest.netlify.app/posts/spring-releasing-of-trees/</loc>
     <lastmod>2021-11-03</lastmod>
     <changefreq>monthly</changefreq>
