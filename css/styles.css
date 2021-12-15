@@ -135,7 +135,7 @@ header {
 }
 
 .sitename-container {
-    background-image: url(/images/home/header1440x480.jpg);
+    background-image: url(/assets/images/home/header1440x480.jpg);
     background-size: cover;
     width: 100%;
     min-height: 480px;

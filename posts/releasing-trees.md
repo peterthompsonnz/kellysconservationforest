@@ -12,14 +12,17 @@ An important task during summer is the releasing of trees. This entails the cutt
 
 Below are before and after pictures of a **Pittosporum eugenioides** or **Lemonwood** tree. In the second picture a **Niwashi Traditional Japanese Garden Cutter** tool can be seen. It is ideal for releasing as it is light and has an extremely sharp blade that holds its edge well.
 
-![Picture of Pittosporum eugenioides (lemonwood) overrun with overgrowth](/images/news/releasing/overgrown-pittosporum.jpg)
+![Picture of Pittosporum eugenioides (lemonwood) overrun with overgrowth](/assets/images/news/releasing/overgrown-pittosporum.jpg)
 
-![Picture of Pittosporum released of overgrowth with ](/images/news/releasing/released-pittosporum.jpg)
+![Picture of Pittosporum released of overgrowth with ](/assets/images/news/releasing/released-pittosporum.jpg)
 
-### Links
+<p>&nbsp;</p>
+
+## Links
 + [Niwashi Traditional Japanese Garden Cutter at Mitre10](https://www.mitre10.co.nz/shop/niwashi-traditional-japanese-garden-cutter/p/327844)
 + [Link to Wikipedia article on Pittosporum eugenioides trees](https://en.wikipedia.org/wiki/Pittosporum_eugenioides)
 
+<p>&nbsp;</p>
 
 [Back to the list of posts](/postlist)
 

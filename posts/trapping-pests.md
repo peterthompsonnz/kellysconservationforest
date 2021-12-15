@@ -10,7 +10,9 @@ layout: post-layout.liquid
 
 There is an extensive network of traps in the forest to deal with pests such as possums, rats, mice and stoats. Below is a picture of a possum caught in a **Trapinator** trap. The possum is attracted to the trap by the smell of a lure, such as peanut butter, and a (powerful) spring loaded bar is triggered when the possum puts its head far enough into the trap. Death is virtually instantaneous as the possum's neck is broken. Click on the following link to find out more about the trap: [Trapinator](https://www.traps.co.nz/trapinator-possum-kill-trap)
 
-![Picture of a possum in a trap](/images/news/trapping/possum-in-trap.jpg)
+![Picture of a possum in a trap](/assets/images/news/trapping/possum-in-trap.jpg)
+
+<p>&nbsp;</p>
 
 ## Goodnature A12 Trap
 
@@ -20,9 +22,10 @@ The lower picture shows the chamber into which the possum sticks its head as it 
 
 Goodnature have discontinued the manufacture of the A12 and are now concentrating on producing the [A24 stoat and rat trap](https://goodnature.co.nz/products/a24-rat-stoat)
 
-![A side on view of the a12 trap](/images/news/trapping/a12-trap.jpg)
+![A side on view of the a12 trap](/assets/images/news/trapping/a12-trap.jpg)
 
-![Picture of the underside of the a12](/images/news/trapping/underside-a12.jpg)
+![Picture of the underside of the a12](/assets/images/news/trapping/underside-a12.jpg)
+<p>&nbsp;</p>
 
 [Back to the list of posts](/postlist)
 

@@ -8,9 +8,11 @@ layout: post-layout.liquid
 
 ## Fears proposed rural subdivision will threaten rare Nelson bush remnant
 
-![Lindy Kelly with the Kelly Conservation Forest in the background, looking across to the land where a subdivision of six lots is proposed.](https://resources.stuff.co.nz/content/dam/images/4/y/n/x/c/r/image.related.StuffLandscapeSixteenByNine.1240x700.20w9dz.png/1598746398446.jpg?format=pjpg&optimize=medium)
+![Lindy Kelly with a bush background](/assets/images/news/threat-from-subdivision/lindy.jpg)
 
-[link to Stuff article](https://www.stuff.co.nz/environment/122437511/fears-proposed-rural-subdivision-will-threaten-rare-nelson-bush-remnant)
+The following link points to an article that was written in <b>Stuff</b> about the threat that the proposed neighbouring subdivision posed to the forest. It contains a video that shows parts of the bush: [link to Stuff article](https://www.stuff.co.nz/environment/122437511/fears-proposed-rural-subdivision-will-threaten-rare-nelson-bush-remnant)
+
+<p>&nbsp;</p>
 
 [Back to the list of posts](/postlist)
 

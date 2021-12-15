@@ -10,14 +10,20 @@ layout: post-layout.liquid
 
 Below are pictures of a Pohutukawa tree, growing by one of the tracks, in full bloom (note that the wooden cross does not indicate a grave - it is the name of the tree). Pohutukawa trees are not common in the South Island, instead Southern Ratas are more prevalent. In looks the two trees are similar. The main difference is their climatic ranges and preferences. 
 
-![Picture of Pohutukawa tree in bloom](/images/news/pohutakawa/pohutukawa-blooming.jpg)
+![Picture of Pohutukawa tree in bloom](/assets/images/news/pohutakawa/pohutukawa-blooming.jpg)
 
-![Close-up of Pohutukawa blooms](/images/news/pohutakawa/pohutukawa-flowers.jpg)
+![Close-up of Pohutukawa blooms](/assets/images/news/pohutakawa/pohutukawa-flowers.jpg)
+
+<p>&nbsp;</p>
+
+## Links
 
 The following links give more information on each type.
 
 - [Pohutukawa](https://en.wikipedia.org/wiki/Metrosideros_excelsa)
 - [Southern Rata](https://en.wikipedia.org/wiki/Metrosideros_umbellata)
+
+<p>&nbsp;</p>
 
 [Back to the list of posts](/postlist)
 

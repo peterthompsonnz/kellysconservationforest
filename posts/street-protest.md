@@ -8,7 +8,7 @@ layout: post-layout.liquid
 
 ## Street Protest
 
-![Lindy's old truck decked out with signage](/images/news/street-protest/truck-with-protest-signs.jpg)
+![Lindy's old truck decked out with signage](/assets/images/news/street-protest/truck-with-protest-signs.jpg)
 
 Today Lindy protested through town with her old truck. Moana and Christy went along as well - plus Lindy's faithful dogs. 
 
@@ -18,6 +18,7 @@ On Tuesday at 9am Lindy and her daughter Amy will present a case to the Environm
 
 This will probably be the last chance to have a say because there has been a commissioner appointed to have the final say next week. The forest project lives or dies on this decision!
 
+<p>&nbsp;</p>
 
 [Back to the list of posts](/postlist)
 

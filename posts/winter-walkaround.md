@@ -10,23 +10,28 @@ layout: post-layout.liquid
 
 Today I did a walk around the bush. We have had a wet and mild start to winter and this has suited the trees well.
 
-![Young Rimu tree](/images/news/winter-walkaround/rimu.jpg)
+![Young Rimu tree](/assets/images/news/winter-walkaround/rimu.jpg)
 
 Above is a picture of a young rimu tree. As can be see it is growing very well. It is somewhat shaded so is protected from the heat during summer. Note the foxglove growing next to it. Unfortunately it is also doing well.
 
 
 This varigated flax is a real beauty. Note the old flower/seed heads. The tuis love these bushes in the summer.
 
-![Flax bush](/images/news/winter-walkaround/flax.jpg)
+![Flax bush](/assets/images/news/winter-walkaround/flax.jpg)
+
+<p>&nbsp;</p>
 
 This [kawakawa](https://teara.govt.nz/en/photograph/13880/kawakawa) is taking advantage of the fallen dead branches to spread itself.
 
-![Spreading kawakawa](/images/news/winter-walkaround/kawakawa.jpg)
+![Spreading kawakawa](/assets/images/news/winter-walkaround/kawakawa.jpg)
+
+<p>&nbsp;</p>
 
 A close-up of the kawakawa. Note the flowerheads.
 
-![Closeup of kawakawa](/images/news/winter-walkaround/kawakawa-closeup.jpg)
+![Closeup of kawakawa](/assets/images/news/winter-walkaround/kawakawa-closeup.jpg)
 
+<p>&nbsp;</p>
 
 [Back to the list of posts](/postlist)
 
