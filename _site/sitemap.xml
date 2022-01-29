@@ -97,18 +97,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://kellysconservationforest.netlify.app/</loc>
-    <lastmod>2021-10-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://kellysconservationforest.netlify.app/postlist/</loc>
-    <lastmod>2021-10-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://kellysconservationforest.netlify.app/posts/bellbird-song/</loc>
     <lastmod>2021-11-02</lastmod>
     <changefreq>monthly</changefreq>
@@ -123,6 +111,24 @@
   <url>
     <loc>https://kellysconservationforest.netlify.app/posts/wetland-planting/</loc>
     <lastmod>2021-11-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kellysconservationforest.netlify.app/posts/shadehouse-shadecloth/</loc>
+    <lastmod>2022-01-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kellysconservationforest.netlify.app/</loc>
+    <lastmod>2022-01-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kellysconservationforest.netlify.app/postlist/</loc>
+    <lastmod>2022-01-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
