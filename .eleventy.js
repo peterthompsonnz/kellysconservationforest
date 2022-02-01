@@ -10,7 +10,7 @@ module.exports = (function (eleventyConfig) {
     });
 
     return {
-        templateFormats: ["njk", "md", "jpg", "jpeg", "png", "html", "css", "xml", "mp3"]
+        templateFormats: ["njk", "md", "jpg", "jpeg", "png", "html", "css", "xml", "mp3", "ico", "mp4"]
     };
 
 });
