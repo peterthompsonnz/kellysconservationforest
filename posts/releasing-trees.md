@@ -16,14 +16,7 @@ Below are before and after pictures of a **Pittosporum eugenioides** or **Lemonw
 
 ![Picture of Pittosporum released of overgrowth with ](/assets/images/news/releasing/released-pittosporum.jpg)
 
-<p>&nbsp;</p>
-
 ## Links
 + [Niwashi Traditional Japanese Garden Cutter at Mitre10](https://www.mitre10.co.nz/shop/niwashi-traditional-japanese-garden-cutter/p/327844)
 + [Link to Wikipedia article on Pittosporum eugenioides trees](https://en.wikipedia.org/wiki/Pittosporum_eugenioides)
 
-<p>&nbsp;</p>
-
-[Back to the list of posts](/postlist)
-
-<p>&nbsp;</p>

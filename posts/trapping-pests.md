@@ -12,7 +12,6 @@ There is an extensive network of traps in the forest to deal with pests such as 
 
 ![Picture of a possum in a trap](/assets/images/news/trapping/possum-in-trap.jpg)
 
-<p>&nbsp;</p>
 
 ## Goodnature A12 Trap
 
@@ -25,8 +24,4 @@ Goodnature have discontinued the manufacture of the A12 and are now concentratin
 ![A side on view of the a12 trap](/assets/images/news/trapping/a12-trap.jpg)
 
 ![Picture of the underside of the a12](/assets/images/news/trapping/underside-a12.jpg)
-<p>&nbsp;</p>
 
-[Back to the list of posts](/postlist)
-
-<p>&nbsp;</p>

@@ -14,8 +14,6 @@ Clearing a slope of gorse and brambles allows trees to grow and ground to be rea
 
 ![Picture of gorse and bramble slope cleared](/assets/images/news/clearing-slope/slope-finished.jpg)
 
-<p>&nbsp;</p>
-
 ## Poisoning a Bramble
 
 Below are pictures of the process used to poison a bramble
@@ -23,24 +21,15 @@ Below are pictures of the process used to poison a bramble
 1: Tools of the trade: saw to cut crown of bramble, and [cut-n-paste](https://www.cutnpaste.co.nz/) gel
 
 ![Picture of gorse and brambles](/assets/images/news/clearing-slope/bramble-and-tools.jpg)
-<p>&nbsp;</p>
 
 2: Area around bramble crown cleared. Note the green shoot indicating bramble is still alive
 
 ![Picture of bramble crown bared](/assets/images/news/clearing-slope/bramble-crown.jpg)
-<p>&nbsp;</p>
 
 3: Cut made to crown so poison gel will be absorbed. Note the size of the crown - it's an old bramble
 
 ![Picture of bramble crown cut](/assets/images/news/clearing-slope/bramble-crown-bared.jpg)
-<p>&nbsp;</p>
 
 4: Cut treated with cut-n-paste - paste looks rather gruesome but will do the job!
 
 ![Picture of bramble crown treated with cut-n-paste](/assets/images/news/clearing-slope/bramble-crown-treated.jpg)
-
-<p>&nbsp;</p>
-
-[Back to the list of posts](/postlist)
-
-<p>&nbsp;</p>

@@ -14,7 +14,6 @@ Below are pictures of a Pohutukawa tree, growing by one of the tracks, in full b
 
 ![Close-up of Pohutukawa blooms](/assets/images/news/pohutakawa/pohutukawa-flowers.jpg)
 
-<p>&nbsp;</p>
 
 ## Links
 
@@ -23,8 +22,3 @@ The following links give more information on each type.
 - [Pohutukawa](https://en.wikipedia.org/wiki/Metrosideros_excelsa)
 - [Southern Rata](https://en.wikipedia.org/wiki/Metrosideros_umbellata)
 
-<p>&nbsp;</p>
-
-[Back to the list of posts](/postlist)
-
-<p>&nbsp;</p>

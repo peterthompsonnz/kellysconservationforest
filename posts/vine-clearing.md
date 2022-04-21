@@ -14,8 +14,6 @@ Above is a picture of vines hanging from trees. The vines are a mixture of two t
 
 ![Aother picture of passionfruit vines hanging from trees](/assets/images/news/clearing-vines/vines-climbing-trees-closeup.jpg)
 
-<p>&nbsp;</p>
-
 **A before shot**: The vines can be quite thick in size if they have been growing for some time. The picture below shows old man's beard vines growing up from the base of a kanuka tree.
 
 ![Picture of old man's beard vines growing up from the base of a kanuka tree](/assets/images/news/clearing-vines/vines-at-base-of-tree.jpg)
@@ -24,14 +22,7 @@ Above is a picture of vines hanging from trees. The vines are a mixture of two t
 
 ![Picture of the base of a kanuka tree that is clear of vines](/assets/images/news/clearing-vines/cleared-base-of-tree.jpg)
 
-<p>&nbsp;</p>
-
 Below is a picture of some of the 'tools of the trade': a pruning saw, leather gloves and a bottle of poison, and poisoned banana passionfruit stumps. Note how large they are.
 
 ![Picture of a pruning saw, leather gloves, a bottle of poison and poisoned banana passionfruit stumps](/assets/images/news/clearing-vines/poisoned-stumps.jpg)
 
-<p>&nbsp;</p>
-
-[Back to the list of posts](/postlist)
-
-<p>&nbsp;</p>

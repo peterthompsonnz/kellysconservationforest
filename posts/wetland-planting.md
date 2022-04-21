@@ -13,34 +13,25 @@ The wetland area is located on the slopes above the old remnant bush. It has bee
 ![Looking up the wetland area](/assets/images/news/wetland-planting/looking-up-the-wetland-area.jpg)
 
 Looking up the wetland area.
-<p>&nbsp;</p>
 
 <img src="/assets/images/news/wetland-planting/looking-down-wetland-area.jpg" alt="Looking down the wetland area" loading="lazy">
 Looking down the area. There is a rich diversity of grasses and reeds.
-<p>&nbsp;</p>
 
 <img src="/assets/images/news/wetland-planting/whole-wetland.jpg" alt="An overview of the whole wetland area" loading="lazy">
-An far away view. The wetland is in the low areas in the picture. It starts at bottom left then curves upwards in the middle of the picture to go between the cattle and the trees. If you look closely white sticks that indicate where a plant is to be planted can be seen.
-<p>&nbsp;</p>
 
+An far away view. The wetland is in the low areas in the picture. It starts at bottom left then curves upwards in the middle of the picture to go between the cattle and the trees. If you look closely white sticks that indicate where a plant is to be planted can be seen.
 
 <img src="/assets/images/news/wetland-planting/sprayed-area-ready-for-planting.jpg" alt="Grass has been sprayed with weed killer around the sticks so the plants do not have to compete with grasses for a start. The sticks indicate where a plant is to be planted and also they mark where the plant is when grass regrowth occurs." loading="lazy">
+
 Vegetation has been sprayed with weed killer around the sticks so the plants, for a start, do not have to compete with quick growing grasses. The sticks indicate where a plant is to be planted and also they make the plant easy to find when grass regrowth happens.
-<p>&nbsp;</p>
 
 <img src="/assets/images/news/wetland-planting/swamp-maire.jpg" alt="Swamp Maire plant newly planted" loading="lazy">
 
 A [Swamp Maire](https://en.wikipedia.org/wiki/Syzygium_maire) plant newly planted. Note the wet looking soil at its base.
-<p>&nbsp;</p>
 
 <img src="/assets/images/news/wetland-planting/flax.jpg" alt="Flax plant newly planted" loading="lazy">
 A flax.
-<p>&nbsp;</p>
 
 <img src="/assets/images/news/wetland-planting/lindy-and-moana.jpg" alt="Lindy and Moana busy at work" loading="lazy">
-Lindy and Moana busy at work.
-<p>&nbsp;</p>
 
-[Back to the list of posts](/postlist)
-
-<p>&nbsp;</p>
+Workers busy at work.

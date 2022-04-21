@@ -29,8 +29,3 @@ An empty fruit shell on the ground - probably eaten by a ground dwelling pest su
 <img src="/assets/images/news/passionfruit/banana-passionfruit-vine-roots.jpg" alt="Vine stems as they enter the ground" loading="lazy">
 
 The picture above shows the vine's stems as they enter the ground. Note that after this picture was taken the stems were cut and poisoned.
-
-
-[Back to the list of posts](/postlist)
-
-<p>&nbsp;</p>

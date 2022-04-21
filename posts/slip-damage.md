@@ -25,8 +25,3 @@ As can be seen in the picture below, poplar sapplings have been planted to help 
 The last picture shows Ian using a crowbar to make a hole to put a sampling into. These can be seen bundled on the ground behind him.
 
 <img src="/assets/images/news/slip-damage/ian-making-hole.jpg" alt="Picture of Ian making a hole with a crowbar" loading="lazy">
-
-
-[Back to the list of posts](/postlist)
-
-<p>&nbsp;</p>

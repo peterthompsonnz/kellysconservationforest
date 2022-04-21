@@ -15,8 +15,3 @@ clicking on the following link. Note that you will need to have an account to wa
 
 [Country Calendar episode](https://www.tvnz.co.nz/shows/country-calendar/episodes/s2020-e36)
 
-<p>&nbsp;</p>
-
-[Back to the list of posts](/postlist)
-
-<p>&nbsp;</p>

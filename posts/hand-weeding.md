@@ -8,7 +8,7 @@ layout: post-layout.liquid
 
 ## Hand Weeding
 
-Areas that have been weed infested in the past have to be reweeded regularly as seeds can lie dormant in the soli for a long time. The size and denseness of the weed seedlings mean that hand weeding is often the best option. When seedlings are small enough they are often quite easy to pull out. Below is a series of pictures of weeds found in the forest and descriptions of each plus clicking on the weed names will take you to pages that contain further information.
+Areas that have been weed infested in the past have to be reweeded regularly as seeds can lie dormant in the soil for a long time. The size and denseness of the weed seedlings mean that hand weeding is often the best option. When seedlings are small enough they are often quite easy to pull out. Below is a series of pictures of weeds found in the forest and descriptions of each plus clicking on the weed names will take you to pages that contain further information.
 
 ![Gorse seedlings](/assets/images/news/hand-weeding/gorse-seedlings.jpg)
 
@@ -35,8 +35,3 @@ Above is a picture of the rather delicate looking stems and leaves. They can be 
 ![Climbing dock bulbs](/assets/images/news/hand-weeding/climbing-dock-bulbs.jpg)
 
 Above is a picture of the beetroot like bulbs. A large one at top centre has been pasted with weed killer paste.
-
-
-[Back to the list of posts](/postlist)
-
-<p>&nbsp;</p>

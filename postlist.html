@@ -1,17 +1,37 @@
---- 
-title: News Posts 
-changefreq: weekly 
---- 
+---
+title: News Posts
+pagination:
+  data: collections.post
+  size: 6
+  alias: posts
+  reverse: true
+changefreq: weekly
+---
+
 {% include _head.html %}
 <main>
-    <h1>List of Posts</h1>
+    <h1>Posts</h1>
+	{% if pagination.href.previous -%}
+	<a href="{{pagination.href.previous}}">&#8604; Previous Page</a>
+	{% else -%}	
+	<p>
+		This page contains a chronological list of links to the latest 10 posts about
+		the day to day work that volunteers carry out in the forest. Click on the
+		<strong>Next</strong> and <strong>Previous</strong> page links to navigate through the posts.
+	</p>
+	{% endif -%} 
+    {% if pagination.href.next -%}
+	<a href="{{pagination.href.next}}">Next Page &#8605;</a>
+	{% endif -%}
+	<hr />
 
-    <p>This page contains a list of posts written by me, Peter Thompson. Hopefully they tell of interesting aspects of working at the forest. The posts are arranged newest to oldest.</p>
-
-    <ul class="post-list">
-        {% for post in collections.post reversed -%}
-        <li class="post-list-item"><a href="{{ post.url }}" class="post-list-link">{{ post.data.title }}</a><span class="post-date"> ~ {{ post.data.date | dateFormat }}</span></li>
-        {% endfor -%}
-    </ul>
+	<ul class="post-list">
+		{% for _post in posts -%}
+		<li class="post-list-item">
+			<a href="{{ _post.url }}" class="post-list-link">{{ _post.data.title }}</a
+			><span class="post-date"> ~ {{ _post.data.date | dateFormat }}</span>
+		</li>
+		{% endfor -%}
+	</ul>
 </main>
 {% include _foot.html %}

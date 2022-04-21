@@ -22,6 +22,3 @@ The above picture shows shadecloth being secured to the roof.
 
 At some point in the future, when the sun is not so fierce, the extra shadecloth will be removed.
 
-[Back to the list of posts](/postlist)
-
-<p>&nbsp;</p>

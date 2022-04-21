@@ -12,8 +12,3 @@ layout: post-layout.liquid
 
 The following link points to an article that was written in <b>Stuff</b> about the threat that the proposed neighbouring subdivision posed to the forest. It contains a video that shows parts of the bush: [link to Stuff article](https://www.stuff.co.nz/environment/122437511/fears-proposed-rural-subdivision-will-threaten-rare-nelson-bush-remnant)
 
-<p>&nbsp;</p>
-
-[Back to the list of posts](/postlist)
-
-<p>&nbsp;</p>

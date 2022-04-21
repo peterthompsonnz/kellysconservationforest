@@ -16,7 +16,3 @@ Tuis and Bellbirds are the most prevalent native birds in the forest. Below is a
 <audio controls="controls" src="/assets/audio/bellbird-song-2021-11-02.mp3">
     Your browser does not support the HTML5 Audio element.
 </audio>
-
-[Back to the list of posts](/postlist)
-
-<p>&nbsp;</p>

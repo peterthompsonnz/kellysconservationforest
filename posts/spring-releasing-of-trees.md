@@ -21,31 +21,18 @@ Another releasing method is to cut the grass at the base with a [sickle](https:/
 
 A young cabbage tree mulched with freshly cut grass.
 
-<br />
-
 <img src="/assets/images/news/spring-releasing/trees-amongst-grass.jpg" alt="Trees growing amongst long grass" loading="lazy">
 
 The trees are difficult to see amongst the long grass.
-
-<br />
 
 <img src="/assets/images/news/spring-releasing/released-trees.jpg" alt="Trees are more visible once grass has been trampled around them" loading="lazy">
 
 They are easier to see once the long grass has been stamped down. The actual flattening is greater than what can be seen in this picture due to the height and angle of the camera.
 
-<br />
-
 <img src="/assets/images/news/spring-releasing/lancewood.jpg" alt="The lancewood is tall enough to not be smothered with grass" loading="lazy">
 
 The [lancewood](https://www.doc.govt.nz/nature/native-plants/lancewood-horoeka/) is tall enough to not be smothered with grass.
 
-<br />
-
 <img src="/assets/images/news/spring-releasing/rimu.jpg" alt="The rimu is tall enough to not be smothered with grass" loading="lazy">
 
 This young [rimu](https://www.doc.govt.nz/globalassets/documents/getting-involved/students-and-teachers/native-tree-factsheets/rimu-info-sheet.pdf) is doing very well.
-
-
-[Back to the list of posts](/postlist)
-
-<p>&nbsp;</p>

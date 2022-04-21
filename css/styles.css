@@ -9,11 +9,13 @@
     --main-background-colour: var(--off-white);
     --dark-gray: #444444;
     --mid-gray: #999999;
-    --light-gray: #d8d8d8;
+    --light-gray: #fafafa;
     --main-title-colour: #ffffff;
     /* Fonts */
+    /* Body text */
     --georgia-serif-stack: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
-    --helvetica-arial-stack: 'Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif';
+    /* Headings */
+    --helvetica-arial-stack: Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 *,
@@ -30,7 +32,7 @@ body {
 
 body {
     padding: 0;
-    font-family: var(--helvetica-arial-stack);
+    font-family: var(--georgia-serif-stack);
     font-size: 100%;
     position: relative;
     background: var(--light-gray);
@@ -40,7 +42,7 @@ body {
 main {
     font-size: 1.2rem;
     max-width: 75ch;
-    padding: 1rem;
+    padding: 1rem 1rem 5rem 1rem;
     margin: 0 auto;
     background: var(--main-background-colour);
     color: var(--text-colour);    
@@ -50,11 +52,15 @@ p {
     line-height: 1.5;
 }
 
+article p {
+    margin: 1.5rem 0;
+}
+
 h1,
 h2,
 h3 {
     color: var(--heading-colour);
-    font-family: var(--georgia-serif-stack);
+    font-family: var( --helvetica-arial-stack);
     font-weight: 400;
     letter-spacing: -0.025rem;
 }
@@ -65,6 +71,7 @@ h1 {
 
 h2 {
     font-size: 1.85rem;
+    margin: 2rem 0 0.5rem 0;
 }
 
 h3 {
@@ -77,13 +84,13 @@ img {
     height: auto;
     margin: 1rem 0;
     border-radius: 6px;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.36);
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.36);
 }
 
 hr {
     border: none;
     border-top: 1px solid var(--light-gray);    
-    margin: 2.25rem 1rem;
+    margin: 1rem 0 2rem 0;
 }
 
 
@@ -93,8 +100,8 @@ hr {
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    background-color: var(--light-gray);
-    padding: 1rem 0;
+    background-color: var(--light-gray);    
+    padding: 0.2rem 0;
 }
 
 .nav-list {
@@ -106,6 +113,7 @@ hr {
 .nav-list-item {
     display: inline-block;
     margin-right: 1rem;
+    padding: 0;
 }
 
 .nav-list-item:last-of-type {
@@ -113,21 +121,20 @@ hr {
 }
 
 .nav-link {
-    color: var(--off-white);
-    padding: 0.3rem 1rem;
-    background-color: var(--mid-green);
+    color: var(--dark-green);
+    padding: 0.3rem 1rem;   
     border-radius: 2px;
     text-decoration: none;
-    font-size: 1rem;
+    font-size: 1.2rem;
     font-family: var(--helvetica-arial-stack);
-    font-weight: 600;
+    font-weight: bold;
     letter-spacing: 0.075rem;
     text-transform: uppercase;
 }
 
 .nav-link:hover {
-    background-color: var(--dark-gray);
     color: var(--off-white);
+    text-decoration: underline;  
 }
 
 
@@ -144,12 +151,12 @@ header {
     background-image: url(/assets/images/home/header1440x480.jpg);
     background-size: cover;
     width: 100%;
-    min-height: 480px;
+    min-height: 280px;
 }
 
 .sitename {
     display: block;
-    font-size: 4.5rem;
+    font-size: 3.0rem;
     text-align: center;
     margin: 0;
     text-transform: uppercase;
@@ -157,7 +164,7 @@ header {
     position: absolute;
     left: 50%;
     top: 50%;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%, -40%);
     background-color: rgba(0, 0, 0, 0.25);
 }
 
@@ -185,8 +192,8 @@ a:hover {
 /* Post list */
 
 .post-list {
-    list-style: none;
-    padding-left: 0;
+    /* list-style: none; */
+    /* padding-left: 0; */
     margin-left: 0;
 }
 
@@ -200,15 +207,19 @@ a:hover {
 }
 
 .post-list-link {
-    font-family: var(--helvetica-arial-stack);
-    padding: 0.5rem;
-    border-radius: 4px;
+    font-family: var(--georgia-serif-stack);
+    padding: 0.5rem 0.5rem 0.15rem 0.5rem;   
+    text-decoration: none;
+    border-bottom: 1px solid var(--mid-green)
 }
 
-.post-list-link:hover {
-    color: var(--dark-green);
-    background-color: var(--light-gray);
-    text-decoration: none;
+.post-list-link:hover {       
+    border-bottom: dotted;    
+}
+
+.bottom-link-to-list-of-posts {
+    display: inline-block;
+    margin: 2rem 0;
 }
 
 .post-date {
@@ -237,10 +248,10 @@ footer {
     width: 100%;
     bottom: 0;
     left: 0;
-    font-size: 1rem;
+    font-size: 0.75rem;
     color: var(--off-white);
     background: rgba(0, 0, 0, 0.6);
-    padding: 0.5rem;
+    padding: 0.25rem;
     text-align: center;
 }
 
