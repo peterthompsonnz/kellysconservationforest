@@ -1,6 +1,7 @@
 :root {
     /* Colours */
     --off-white: #fefefe;
+    --light-green: #b1da70;
     --mid-green: #60783a;
     --dark-green: #2d381c;
     --bright-green: #44f744;
@@ -133,7 +134,7 @@ hr {
 }
 
 .nav-link:hover {
-    color: var(--off-white);
+    color: var(--mid-green);
     text-decoration: underline;  
 }
 
@@ -148,7 +149,7 @@ header {
 }
 
 .sitename-container {
-    background-image: url(/assets/images/home/header1440x480.jpg);
+    background-image: url(/assets/images/home/header1440x280x50percent.jpg);
     background-size: cover;
     width: 100%;
     min-height: 280px;
