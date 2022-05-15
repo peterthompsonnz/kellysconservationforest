@@ -12,8 +12,8 @@ The new wetland area is due to be planted with about 5000 trees and plants this 
 
 The sticks are gathered from local timber merchants who have little use for them. The sticks official name is 'fillets sticks' and they are used to separate the layers of wood that are delivered in bundles to the merchants. Below are: 1) pictures of the sticks on the back of the truck before they are unloaded; 2) sticks piled up in the shed waiting to be painted; 3) A pile of painted sticks. Note that only the tops of the sticks need to be painted. 
 
-![Fillet sticks on the back of the truck](/assets/images/news/marker-sticks/sticks-on-truck.jpg)
+<img src="/assets/images/news/marker-sticks/sticks-on-truck.jpg" alt="Fillet sticks on the back of the truck" loading="lazy">
 
-![Fillet sticks piled up in the shed](/assets/images/news/marker-sticks/sticks-in-shed.jpg)
+<img src="/assets/images/news/marker-sticks/sticks-in-shed.jpg" alt="Fillet sticks piled up in the shed" loading="lazy">
 
-![A pile of sticks with their tops painted light blue](/assets/images/news/marker-sticks/painted-sticks.jpg)
+<img src="/assets/images/news/marker-sticks/painted-sticks.jpg" alt="A pile of sticks with their tops painted light blue" loading="lazy">
