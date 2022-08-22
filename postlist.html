@@ -1,30 +1,19 @@
 ---
 title: News Posts
-pagination:
-  data: collections.post
-  size: 7
-  alias: posts
-  reverse: true
 changefreq: weekly
 ---
 
 {% include _head.html %}
 <main>
     <h1>Posts</h1>
-	{% if pagination.pageNumber == 0 -%}
+	
 	<p>
-		This page contains a chronological list of links to the latest 10 posts about
-		the day to day work that volunteers carry out in the forest. Click on the
-		<strong>Next</strong> and <strong>Previous</strong> page links to navigate through the posts.
+		This page contains a chronological list of links to posts about
+		the day to day work that volunteers carry out in the forest.
 	</p>	
-	{% elsif pagination.href.previous and pagination.href.next -%}<a href="{{pagination.href.previous}}">&#8604; Previous Page</a>&nbsp;|&nbsp;{% else pagination.href.previous and pagination.href.next == false -%}<a href="{{pagination.href.previous}}">&#8604; Previous Page</a>	
-	{% endif -%}
-
-    {% if pagination.href.next -%}<a href="{{pagination.href.next}}">Next Page &#8605;</a>{% endif -%}	
-	<hr />
-
+	
 	<ul class="post-list">
-		{% for _post in posts -%}
+		{% for _post in collections.post reversed -%}
 		<li class="post-list-item">
 			<a href="{{ _post.url }}" class="post-list-link">{{ _post.data.title }}</a
 			><span class="post-date"> ~ {{ _post.data.date | dateFormat }}</span>
