@@ -186,12 +186,14 @@ header {
 /* Generic links */
 
 a {
-    text-decoration: underline;
+    text-decoration: none;
+    border-bottom: 1px solid var(--mid-green);
     color: var(--mid-green);
 }
 
 a:hover {
     color: var(--dark-green);
+    border-bottom-color: var(--dark-green);
 }
 
 
