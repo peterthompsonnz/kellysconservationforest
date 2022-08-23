@@ -1,6 +1,6 @@
 ---
 tags: post
-title: "Storm damage: Radio New Zealand news item"
+title: "'Atmospheric river' bursts across the country: News item"
 pageDescription: Story on the RNZ website about flooding in Nelson
 date: 2022-08-18
 layout: post-layout.liquid
