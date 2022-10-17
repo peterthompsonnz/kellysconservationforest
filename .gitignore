@@ -1,4 +1,5 @@
 /store
 /node_modules
 /_site
+/token
 _package-lock.json
