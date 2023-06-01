@@ -151,18 +151,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://kellysconservationforest.netlify.app/</loc>
-    <lastmod>2022-05-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://kellysconservationforest.netlify.app/postlist/</loc>
-    <lastmod>2022-05-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://kellysconservationforest.netlify.app/posts/planting-wetland/</loc>
     <lastmod>2022-06-10</lastmod>
     <changefreq>monthly</changefreq>
@@ -201,6 +189,24 @@
   <url>
     <loc>https://kellysconservationforest.netlify.app/posts/slip-restoration-work/</loc>
     <lastmod>2022-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kellysconservationforest.netlify.app/</loc>
+    <lastmod>2022-10-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kellysconservationforest.netlify.app/postlist/</loc>
+    <lastmod>2022-10-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kellysconservationforest.netlify.app/posts/june-2023-track-repairs/</loc>
+    <lastmod>2023-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
