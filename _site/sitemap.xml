@@ -103,12 +103,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://kellysconservationforest.netlify.app/posts/june-2023-causeway-and-relocated-steps/</loc>
-    <lastmod>2021-11-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://kellysconservationforest.netlify.app/posts/spring-releasing-of-trees/</loc>
     <lastmod>2021-11-03</lastmod>
     <changefreq>monthly</changefreq>
@@ -219,6 +213,12 @@
   <url>
     <loc>https://kellysconservationforest.netlify.app/posts/june-2023-track-repairs/</loc>
     <lastmod>2023-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kellysconservationforest.netlify.app/posts/june-2023-causeway-and-relocated-steps/</loc>
+    <lastmod>2023-06-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
