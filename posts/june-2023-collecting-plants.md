@@ -8,7 +8,7 @@ layout: post-layout.liquid
 
 ## Collecting plants from Titoki Nurseries
 
-Today Lindy, Chrissie and I (Peter) collected over 4000 plants from Titoki Nurseries near Brightwater. A planting day is planned for this Saturday. Tasman Environment Trust and "The Honda People" are involved in the planting. Apparently some members of the public will be involved too. Below are some pictures that I took of the trip to the nursery.
+Today Lindy, Christie and I (Peter) collected over 4000 plants from Titoki Nurseries near Brightwater. A planting day is planned for this Saturday. Tasman Environment Trust and "The Honda People" are involved in the planting. Apparently some members of the public will be involved too. Below are some pictures that I took of the trip to the nursery.
 
 We used three vehicles for the task and two trailers: Lindy's car towing a trailer, the small white truck, the white Ford ute towing a horsefloat. It was quite a convey.
 
@@ -29,10 +29,10 @@ Boxes of plants arranged around the cattle trough at the top of the farm. They a
 
 <img src="/assets/images/news/2023-collecting-plants/plants-around-trough.jpg" alt="A picture of the plants arranged next to the cattle trough and willow sticks laying across and half in the trough" loading="lazy">
 
-Chrissie unloading the trailer, and below that unloading the front passenger seat of lindy's car.
+Christie unloading the trailer, and below that unloading the front passenger seat of lindy's car.
 
-<img src="/assets/images/news/2023-collecting-plants/chrissie-unloading-trailer.jpg" alt="A picture of Chrissie unloading the trailer which has been backed up so it is near the trough" loading="lazy">
+<img src="/assets/images/news/2023-collecting-plants/chrissie-unloading-trailer.jpg" alt="A picture of Christie unloading the trailer which has been backed up so it is near the trough" loading="lazy">
 
 
-<img src="/assets/images/news/2023-collecting-plants/chrissie-unloading-car.jpg" alt="A picture of Chrissie unloading plants from the passenger seat of Lindy's car" loading="lazy">
+<img src="/assets/images/news/2023-collecting-plants/chrissie-unloading-car.jpg" alt="A picture of Christie unloading plants from the passenger seat of Lindy's car" loading="lazy">
 
