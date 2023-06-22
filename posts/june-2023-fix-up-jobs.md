@@ -1,12 +1,12 @@
 ---
 tags: post
-title: Fix-up jobs to do before planting
+title: Doing a few fix-up jobs before the upcoming public planting
 pageDescription: There were a few fix-up jobs to do before the public planting session this Saturday.
 date: 2023-06-22
 layout: post-layout.liquid
 ---
 
-## Fix-up jobs to do before the planting this Saturday
+## Doing a few fix-up jobs before the upcoming public planting
 
 There were a few jobs to do before the public planting this Saturday (in two days time: The boardwalk that Ian and I had made last week needed to be covered in wire netting to make it more non-slip; some wire that separated the wetland from the forest had been cut to allow access to and from two diverted sections of track (the diversion had ro be made due to slips); and track steps across a slip had to be made safer. 
 
