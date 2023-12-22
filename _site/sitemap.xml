@@ -246,4 +246,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://kellysconservationforest.netlify.app/posts/2023-fenceline-weeds/</loc>
+    <lastmod>2023-12-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
