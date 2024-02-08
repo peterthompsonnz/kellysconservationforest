@@ -18,3 +18,4 @@ Note the posion gel bottle amongst the grass.
 
 ![Poison gel on an old man's beard root](/assets/images/news/2023-fenceline-weeds/poisoned-root.jpg)
 
+
